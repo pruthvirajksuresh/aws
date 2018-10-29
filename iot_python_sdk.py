@@ -8,10 +8,7 @@ host = "a13lbkikpf9twg-ats.iot.us-east-2.amazonaws.com"
 rootCAPath = "root-CA.crt"
 certificatePath = "aws_preethi.cert.pem"
 privateKeyPath = "aws_preethi.private.key"
-
-
 port = 8883
-useWebsocket = False
 clientId = "sdk-java"
 topic = "topic_1"
 message_to_print="aws aws_preethi"
